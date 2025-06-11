@@ -2,6 +2,8 @@
  👋 Hi, I’m Harshith Reddy V <br>
  👨‍💻 BTech in Computer Science @ VIT,Vellore <br>
  🌱 I’m currently learning Web dev <br>
+ 🛠️ Building with: Python, Java, MERN Stack <br>
+ 📽️ Editing using Photoshop and Premiere Pro <br>
  📫 How to reach me : vharshithk@gmail.com <br>
 
 ## 🌐 Socials :
